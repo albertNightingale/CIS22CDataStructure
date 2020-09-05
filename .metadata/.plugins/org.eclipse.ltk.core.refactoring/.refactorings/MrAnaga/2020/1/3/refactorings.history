@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;Main.getStuff()&apos; to &apos;calculateValue&apos;&#x0A;- Original project: &apos;MrAnaga&apos;&#x0A;- Original element: &apos;Main.getStuff()&apos;&#x0A;- Renamed element: &apos;Main.calculateValue()&apos;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;getStuff&apos;" flags="589826" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;{Main.java[Main~getStuff" name="calculateValue" references="true" stamp="1579241648881" version="1.0"/>
+</session>

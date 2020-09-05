@@ -1,0 +1,19 @@
+INDEX VERSION 1.131+/Users/albertliu/Desktop/Java/DataStructure/DataStructure/Algorithm/.metadata/.plugins/org.eclipse.jdt.core
+3593313469.index
+3245265178.index
+1264494051.index
+1037247631.index
+2944510705.index
+1885197524.index
+441246361.index
+2830774664.index
+3241470864.index
+316763350.index
+112598713.index
+1122206648.index
+1842227976.index
+437450276.index
+4008826655.index
+754539395.index
+1581918072.index
+3562497394.index

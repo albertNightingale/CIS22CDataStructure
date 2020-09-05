@@ -1,0 +1,15 @@
+public class Hack {
+	public static void main(String[] args) {
+		String temp = "!b=%d:%d:%d:%d:1";
+		String result = ""; 
+		
+		for (int i = 140; i < 200; i++)
+		{
+			for (int j = 0; j < 150; j++) {
+				result += String.format(temp, i, j, i-140, j); 
+			}
+		}
+		
+		System.out.println(result);
+	}
+}

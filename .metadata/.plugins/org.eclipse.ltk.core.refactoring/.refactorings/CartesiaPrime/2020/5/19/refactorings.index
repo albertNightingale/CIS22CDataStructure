@@ -1,0 +1,11 @@
+1588799617396	Rename field 'abNeg'
+1588799630256	Rename field 'abPos'
+1588799643441	Rename field 'cdNeg'
+1588799658070	Rename field 'cdPos'
+1588799858880	Rename local variable 'abNegState'
+1588799868543	Rename local variable 'abNegState'
+1588820487263	Rename method 'isFinalState'
+1588820549287	Delete element
+1588820578551	Rename method 'nextStates'
+1588820803316	Rename local variable 'state'
+1588821000771	Rename local variable 'state'
